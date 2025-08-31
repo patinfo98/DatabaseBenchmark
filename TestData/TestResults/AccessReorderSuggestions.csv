@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+450,1 Users - Access - ReorderSuggestions,200,52529,450,0
+692,1 Users - Access - ReorderSuggestions,200,52529,692,3
+438,1 Users - Access - ReorderSuggestions,200,52529,438,1
+423,1 Users - Access - ReorderSuggestions,200,52529,423,1
+488,1 Users - Access - ReorderSuggestions,200,52529,488,0
+435,1 Users - Access - ReorderSuggestions,200,52529,435,0
+457,1 Users - Access - ReorderSuggestions,200,52529,456,1
+444,1 Users - Access - ReorderSuggestions,200,52529,444,1
+475,1 Users - Access - ReorderSuggestions,200,52529,475,0
+428,1 Users - Access - ReorderSuggestions,200,52529,427,1

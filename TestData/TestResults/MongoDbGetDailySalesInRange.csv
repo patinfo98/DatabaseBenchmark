@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+775,1 Users - MongoDb -  DailySales,200,160,773,2
+738,1 Users - MongoDb -  DailySales,200,160,736,1
+752,1 Users - MongoDb -  DailySales,200,160,751,1
+746,1 Users - MongoDb -  DailySales,200,160,744,1
+808,1 Users - MongoDb -  DailySales,200,160,807,2
+606,1 Users - MongoDb -  DailySales,200,160,606,1
+570,1 Users - MongoDb -  DailySales,200,160,569,2
+642,1 Users - MongoDb -  DailySales,200,160,641,1
+588,1 Users - MongoDb -  DailySales,200,160,587,1
+624,1 Users - MongoDb -  DailySales,200,3133,624,1

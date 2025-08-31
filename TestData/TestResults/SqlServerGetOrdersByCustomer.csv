@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+293,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,292,1
+295,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,295,1
+281,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,280,1
+281,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,281,1
+293,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,292,1
+280,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,279,1
+290,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,289,1
+275,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,274,1
+279,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,278,0
+287,1 Users - SqlServer -  GetOrdersByCustomer,200,2125,286,0

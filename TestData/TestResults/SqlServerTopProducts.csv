@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+363,1 Users - SqlServer -  TopProducts,200,160,362,1
+465,1 Users - SqlServer -  TopProducts,200,1335,463,2
+457,1 Users - SqlServer -  TopProducts,200,1329,457,0
+458,1 Users - SqlServer -  TopProducts,200,1338,458,1
+288,1 Users - SqlServer -  TopProducts,200,160,288,1
+380,1 Users - SqlServer -  TopProducts,200,1385,379,1
+532,1 Users - SqlServer -  TopProducts,200,1344,532,1
+270,1 Users - SqlServer -  TopProducts,200,160,269,1
+458,1 Users - SqlServer -  TopProducts,200,1325,458,1
+589,1 Users - SqlServer -  TopProducts,200,1301,588,1

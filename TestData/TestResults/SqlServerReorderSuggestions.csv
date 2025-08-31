@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+349,1 Users - SqlServer - ReorderSuggestions,200,13350,349,2
+290,1 Users - SqlServer - ReorderSuggestions,200,13350,290,1
+265,1 Users - SqlServer - ReorderSuggestions,200,13350,265,1
+269,1 Users - SqlServer - ReorderSuggestions,200,13350,269,0
+273,1 Users - SqlServer - ReorderSuggestions,200,13350,273,1
+271,1 Users - SqlServer - ReorderSuggestions,200,13350,271,1
+275,1 Users - SqlServer - ReorderSuggestions,200,13350,275,1
+276,1 Users - SqlServer - ReorderSuggestions,200,13350,276,1
+273,1 Users - SqlServer - ReorderSuggestions,200,13350,273,1
+271,1 Users - SqlServer - ReorderSuggestions,200,13350,270,0

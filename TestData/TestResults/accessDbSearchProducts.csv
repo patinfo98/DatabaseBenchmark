@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+703,1 Users - Access -  SearchProducts,200,160,703,2
+514,1 Users - Access -  SearchProducts,200,160,514,1
+489,1 Users - Access -  SearchProducts,200,160,489,1
+425,1 Users - Access -  SearchProducts,200,160,425,1
+478,1 Users - Access -  SearchProducts,200,160,478,1
+425,1 Users - Access -  SearchProducts,200,160,425,1
+428,1 Users - Access -  SearchProducts,200,160,428,1
+439,1 Users - Access -  SearchProducts,200,160,439,1
+424,1 Users - Access -  SearchProducts,200,160,424,1
+430,1 Users - Access -  SearchProducts,200,160,430,0

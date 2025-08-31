@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+744,1 Users - Access -  DailySales,200,33425,743,2
+989,1 Users - Access -  DailySales,200,122892,982,2
+483,1 Users - Access -  DailySales,200,160,483,1
+465,1 Users - Access -  DailySales,200,160,465,1
+978,1 Users - Access -  DailySales,200,118289,972,1
+960,1 Users - Access -  DailySales,200,100334,954,1
+748,1 Users - Access -  DailySales,200,64120,748,1
+1177,1 Users - Access -  DailySales,200,163755,1170,2
+963,1 Users - Access -  DailySales,200,115306,956,2
+482,1 Users - Access -  DailySales,200,160,482,1

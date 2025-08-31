@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+710,1 Users - MongoDb -  TopProducts,200,1330,709,2
+632,1 Users - MongoDb -  TopProducts,200,160,630,1
+550,1 Users - MongoDb -  TopProducts,200,160,550,2
+576,1 Users - MongoDb -  TopProducts,200,160,575,1
+544,1 Users - MongoDb -  TopProducts,200,160,543,1
+543,1 Users - MongoDb -  TopProducts,200,160,542,2
+581,1 Users - MongoDb -  TopProducts,200,160,580,1
+545,1 Users - MongoDb -  TopProducts,200,160,544,1
+585,1 Users - MongoDb -  TopProducts,200,160,584,1
+718,1 Users - MongoDb -  TopProducts,200,1334,717,1

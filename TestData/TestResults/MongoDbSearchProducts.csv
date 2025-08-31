@@ -1,0 +1,11 @@
+elapsed,label,responseCode,bytes,Latency,Connect
+279,1 Users - MongoDb -  SearchProducts,200,254,278,1
+279,1 Users - MongoDb -  SearchProducts,200,254,278,1
+261,1 Users - MongoDb -  SearchProducts,200,254,260,0
+293,1 Users - MongoDb -  SearchProducts,200,254,292,0
+266,1 Users - MongoDb -  SearchProducts,200,254,266,1
+290,1 Users - MongoDb -  SearchProducts,200,254,289,1
+261,1 Users - MongoDb -  SearchProducts,200,254,260,1
+269,1 Users - MongoDb -  SearchProducts,200,254,268,1
+263,1 Users - MongoDb -  SearchProducts,200,254,262,1
+261,1 Users - MongoDb -  SearchProducts,200,254,261,1
